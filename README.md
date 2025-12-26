@@ -29,3 +29,9 @@ This task provided practical exposure to Python programming concepts such as var
 Through this task, important skills such as logical thinking, basic data processing, and visualization techniques were developed. It highlighted how visual representations can simplify complex information and support better decision-making. The task also emphasized writing clean and readable code, as well as organizing program logic in a structured manner.
 
 Overall, Task 1 successfully demonstrated the use of Python for data visualization. It served as an introductory exercise to data analysis concepts and provided a strong foundation for more advanced tasks involving real-time data, APIs, and machine learning. Completing this task helped in gaining confidence in Python programming and understanding the importance of visual tools in data-driven applications.
+
+##OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6c71bba9-0822-4b9b-8a75-37c9712e1d03" />
+
+
